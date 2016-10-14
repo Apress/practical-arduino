@@ -1,0 +1,21 @@
+Online Thermometer
+==================
+
+Copyright 2010 Jonathan Oxer
+Copyright 2010 Hugh Blemings
+
++---------------------------------------------------------------------+
+| This project is featured in the book "Practical Arduino" by         |
+| Jonathan Oxer and Hugh Blemings (Apress, 2009). More information    |
+| about the book and this project is available at:                    |
+|                                                                     |
+|   www.practicalarduino.com/projects/online-thermometer              |
++---------------------------------------------------------------------+
+
+Install temperature sensors around your home or office and access an
+up-to-the-moment report using a web browser. Readings can also be
+logged and graphed over time.
+
+This is an updated version of the project designed to work with
+Ethernet shields based on the Wiznet W5100 chipset, such as the
+official Arduino Ethernet shield and the Freetronics Ethernet shield.

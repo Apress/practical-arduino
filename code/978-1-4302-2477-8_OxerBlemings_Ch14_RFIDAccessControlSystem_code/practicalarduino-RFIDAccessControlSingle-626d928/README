@@ -1,0 +1,7 @@
+RFID Access Control Simple
+==========================
+
+Copyright 2009 Jonathan Oxer
+
+Basic system to use an RFID reader module to release a door lock using
+an electric striker plate when a recognised tag is read.
